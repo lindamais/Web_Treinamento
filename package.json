@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "prompt-sync": "^4.2.0"
   }
 }
